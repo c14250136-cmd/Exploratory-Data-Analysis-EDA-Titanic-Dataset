@@ -50,8 +50,8 @@ Dari kode EDA sebelumnya, saya menambahkan beberapa variabel baru berikut:
 
 ## 📈 Visualisasi Tambahan
 ![At](https://github.com/c14250136-cmd/Exploratory-Data-Analysis-EDA-Titanic-Dataset/blob/main/Screenshot%202025-09-06%20011520.png)
-![Alt](images/nama_file.png)
-![Alext](images/nama_file.png)
+![Alt](https://github.com/c14250136-cmd/Exploratory-Data-Analysis-EDA-Titanic-Dataset/blob/main/Screenshot%202025-09-06%20011542.png)
+![Alext]()
 ## ✅ Kesimpulan Sementara
 
 * Sebagian besar penumpang Titanic memiliki keluarga kecil (ukuran 1–4 orang).
