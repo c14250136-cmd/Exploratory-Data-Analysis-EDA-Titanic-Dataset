@@ -48,6 +48,8 @@ Dari kode EDA sebelumnya, saya menambahkan beberapa variabel baru berikut:
 
 ---
 
+## 📈 Visualisasi Tambahan
+![At](images/nama_file.png)
 ## ✅ Kesimpulan Sementara
 
 * Sebagian besar penumpang Titanic memiliki keluarga kecil (ukuran 1–4 orang).
